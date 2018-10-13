@@ -1,4 +1,5 @@
-dis
+display_board
+
   
 end
 
